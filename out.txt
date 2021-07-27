@@ -1,0 +1,31 @@
+---------
+Propiedades:
+id producto = 001
+descripcion = agua
+precio = 2.5
+---------
+---------
+Propiedades:
+id producto = 002
+descripcion = arroz
+precio = 3.5
+---------
+---------
+Propiedades:
+id producto = 003
+descripcion = cafe
+precio = 10
+---------
+---------
+Propiedades:
+id producto = 004
+descripcion = azucar
+precio = 5.5
+---------
+---------
+Propiedades:
+id producto = 005
+descripcion = harina
+precio = 6.5
+---------
+End of the list products
